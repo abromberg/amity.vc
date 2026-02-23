@@ -674,7 +674,7 @@
                 bio: 'Colleen manages accounting, finance, budgeting, compliance, and investor relations functions at Amity Ventures.',
                 education: 'B.A. in Economics and Accounting, UC Santa Barbara. Licensed CPA in California.',
                 previousRole: 'Manager at EY in Strategy & Transactions and audit practices, focusing on financial services and technology sector clients.',
-                interests: 'Outdoor activities, concerts, electronic music, cooking, and football. 10 years playing lacrosse, 3 years coaching.',
+                interests: 'Concerts, cooking, football, and lacrosse (10 years playing, 3 coaching)',
                 favoriteMeal: 'A giant assortment of pickled vegetables',
                 linkedin: 'https://www.linkedin.com/in/colleen-johnson-cpa-67b056127/'
             },
@@ -784,16 +784,9 @@
                 `;
             }
 
-            if (member.interests) {
-                html += `
-                    <div class="modal-section">
-                        <h4>Interests</h4>
-                        <p>${member.interests}</p>
-                    </div>
-                `;
-            }
-
+            // Fun facts (grey footer section)
             const funFacts = [];
+            if (member.interests) funFacts.push({ label: 'Interests', value: member.interests });
             if (member.firstJob) funFacts.push({ label: 'First Job', value: member.firstJob });
             if (member.hiddenTalent) funFacts.push({ label: 'Hidden Talent', value: member.hiddenTalent });
             if (member.favoriteMeal) funFacts.push({ label: 'Favorite Meal', value: member.favoriteMeal });
