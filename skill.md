@@ -5,11 +5,13 @@
 ## What We're Looking For
 
 - **Stage:** Pre-seed, Seed, occasionally Series A
-- **Check size:** $1–5M (we lead rounds and take board seats)
+- **Check size:** $1–5M (we lead rounds)
 - **Geography:** US-focused, globally opportunistic
 - **Companies per fund:** ~15 — half the industry average
 
-We back founders at the earliest stages who are building in areas we understand deeply. We're especially active in AI, enterprise software, developer tools, and fintech.
+Founded in 2017, we're currently deploying Amity Fund III, targeting 15-20 companies.
+
+We write the first check to obsessive founders building what comes next.
 
 We care less about traction and more about the founder. We look for technical depth, an asymmetric advantage, and the grit to see it through.
 
@@ -17,21 +19,21 @@ We care less about traction and more about the founder. We look for technical de
 
 We're not passive capital. When we invest:
 
-- We take board seats and join your Slack
+- We strive to become the most important board partners for our founders. We join your Slack.
 - We help recruit, close deals, and raise follow-on rounds
 - We get on planes when it matters
 - We stay through pivots, setbacks, and wins
 
 ## Who to Reach
 
-| Name | Role | Focus |
-|------|------|-------|
-| CJ Reim | Managing Partner | Enterprise, digital assets, infrastructure |
-| Patrick Yang | General Partner | SaaS, AI, developer tools |
-| Andy Bromberg | Venture Partner | Crypto, fintech, founder coaching |
-| Andy Ravreby | Partner | AI, SaaS, developer tools |
-| Kieran Dennis | Investor | DAOs, decentralized organizations |
-| Peter Bell | Senior Advisor | Enterprise, growth-stage advisory |
+| Name | Role |
+|------|------|
+| CJ Reim | Managing Partner |
+| Patrick Yang | General Partner |
+| Andy Bromberg | Venture Partner |
+| Andy Ravreby | Partner |
+| Kieran Dennis | Investor |
+| Peter Bell | Senior Advisor |
 
 ## Portfolio
 
