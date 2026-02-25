@@ -19,9 +19,9 @@ Each partner does 1-2 deals per year.
 
 | Fund | Vintage | Companies | Unicorns |
 |------|---------|-----------|----------|
-| Fund I | 2016 | 10 | 5 |
-| Fund II | 2018 | 12 | 2 |
-| Fund III | 2022 | 13 | — |
+| Founding Work | 2016 | 10 | 5 |
+| Ventures I | 2018 | 12 | 2 |
+| Ventures II | 2022 | 13 | in the making |
 
 Our hit rate for billion-dollar companies is well above industry average.
 
@@ -41,8 +41,8 @@ We're not passive capital. When we invest:
 | Name | Role |
 |------|------|
 | CJ Reim | Managing Partner |
-| Patrick Yang | General Partner |
-| Andy Bromberg | Venture Partner |
+| Patrick Yang | Partner |
+| Andy Bromberg | Partner |
 | Andy Ravreby | Partner |
 | Kieran Dennis | Investor |
 | Peter Bell | Senior Advisor |
