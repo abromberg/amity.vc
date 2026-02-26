@@ -139,6 +139,48 @@ nav.nav-scrolled .nav-right a:hover {
     color: #F6F3ED;
 }
 
+/* Intro fund stats */
+
+.intro-funds {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    margin: 2.5rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.intro-fund {
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    padding: 1rem 1rem 0 0;
+}
+
+.fund-name {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: #999;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.fund-year {
+    color: #bbb;
+}
+
+.fund-stat {
+    font-size: 0.95rem;
+    color: #444;
+}
+
+.fund-highlight {
+    font-family: 'Crimson Pro', serif;
+    font-style: italic;
+    font-size: 1.1rem;
+    color: #1a1a1a;
+}
+
+
 /* Main */
 
 main {
@@ -1126,6 +1168,11 @@ body.agent-mode .agent-brief {
 
     .hero-content {
         padding: 0 1.5rem 60px;
+    }
+
+    .intro-funds {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem 0;
     }
 
     h1 {
