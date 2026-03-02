@@ -38,8 +38,8 @@ We're not passive capital. When we invest:
 
 ## Who to Reach
 
-| Name | Role |
-|------|------|
+| Name | Title |
+|------|-------|
 | CJ Reim | Managing Partner |
 | Patrick Yang | Partner |
 | Andy Bromberg | Partner |
