@@ -994,6 +994,25 @@ footer {
     color: #ccc;
 }
 
+.footer-disclosures {
+    grid-column: 1 / -1;
+    padding-top: 1rem;
+    border-top: 1px solid #222;
+    margin-top: 0.4rem;
+}
+
+.footer-disclosures p {
+    font-size: 0.6rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 0.3rem;
+    letter-spacing: 0.02em;
+}
+
+.footer-disclosures p:last-child {
+    margin-bottom: 0;
+}
+
 /* ================================
    Agent Mode
    ================================ */
