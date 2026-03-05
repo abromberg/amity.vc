@@ -6,6 +6,11 @@
 
 html {
     font-size: 18px;
+    scroll-behavior: smooth;
+}
+
+[id] {
+    scroll-margin-top: 100px;
 }
 
 :root {
@@ -1566,7 +1571,7 @@ body.agent-mode .agent-brief {
     }
 
     .hero-content {
-        padding: 0 1.5rem 60px;
+        padding: 0 1.5rem 100px;
     }
 
     .intro-funds {
