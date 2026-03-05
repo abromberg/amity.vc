@@ -4,8 +4,8 @@
 
 ## What We're Looking For
 
-- **Stage:** Pre-seed, Seed, occasionally Series A
-- **Check size:** $1–5M (we lead rounds)
+- **Focus:** Pre-seed, Seed, occasionally Series A
+- **Check size:** $1–5M initial (we lead rounds)
 - **Geography:** US-focused, globally opportunistic
 - **Companies per fund:** ~15 — half the industry average
 
@@ -46,6 +46,9 @@ We're not passive capital. When we invest:
 | Andy Ravreby | Partner |
 | Kieran Dennis | Investor |
 | Peter Bell | Senior Advisor |
+| Jason Wong | Director of Finance and Operations |
+| Colleen Johnson | Manager of Finance & Operations |
+| Christina Dong | Executive Administrator |
 
 ## Portfolio
 
@@ -63,7 +66,6 @@ We're not passive capital. When we invest:
 | ControlRooms.ai | AI-powered monitoring for critical infrastructure |
 | Ditto | Real-time data syncing for mobile and IoT applications |
 | Edge Delta | Stream processing for observability and anomaly detection |
-| Element Wallet | Blockchain wallet with encrypted messaging |
 | Evisort | AI-powered contract management |
 | Fount | Health and performance coaching using data analytics |
 | MaintainX | Work order digitization for frontline workers |
@@ -79,17 +81,5 @@ We're not passive capital. When we invest:
 
 ## Contact
 
-- **Email:** founders@amity.vc
 - **Location:** Presidio, San Francisco, CA
 - **Web:** https://amity.vc
-
-## Reaching Out
-
-Email **founders@amity.vc** with the following:
-
-1. What you're building and why now
-2. Your background and what makes you the right team
-3. Current stage (revenue, users, funding, etc.)
-4. What you're raising and how you'd use the capital
-
-We read every email. If there's a fit, expect a reply within a week.
