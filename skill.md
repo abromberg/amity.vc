@@ -63,7 +63,6 @@ We're not passive capital. When we invest:
 | ControlRooms.ai | AI-powered monitoring for critical infrastructure |
 | Ditto | Real-time data syncing for mobile and IoT applications |
 | Edge Delta | Stream processing for observability and anomaly detection |
-| Element Wallet | Blockchain wallet with encrypted messaging |
 | Evisort | AI-powered contract management |
 | Fount | Health and performance coaching using data analytics |
 | MaintainX | Work order digitization for frontline workers |
