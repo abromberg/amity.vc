@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found</title>
+  <script>
+    (function () {
+      var path = window.location.pathname.replace(/\/+$/, '');
+      var map = {
+        '/portfolio': '/#companies',
+        '/team': '/#team',
+        '/privacy-policy': '/privacy-policy.html',
+        '/amity-reserve': '/reserve.html',
+        '/reserve': '/reserve.html',
+        '/amity/skill.md': '/skill.md'
+      };
+
+      if (map[path]) {
+        window.location.replace(map[path]);
+        return;
+      }
+
+      if (path.indexOf('/team/') === 0) {
+        window.location.replace('/#team');
+      }
+    })();
+  </script>
+</head>
+<body>
+  <h1>Page not found</h1>
+  <p>If you are not redirected automatically, return to <a href="/">home</a>.</p>
+</body>
+</html>
