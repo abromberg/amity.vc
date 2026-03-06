@@ -92,7 +92,7 @@
     <main>
         <section class="intro" data-reveal>
             <p>We partner with founders at the earliest stages — and we don't divide our time among many of them. We lead rounds, get in the trenches, and back half as many companies per fund as our peers.<sup id="ref1"><a href="#fn1">1</a></sup></p>
-            <p>And it works: 32% of our early-stage portfolio companies have reached $1B+ in valuation,<sup id="ref2"><a href="#fn2">2</a></sup> and our founders retain more ownership than the industry average.<sup id="ref3"><a href="#fn3">3</a></sup></p>
+            <p>And it works: 20% of our early-stage portfolio companies have reached $1B+ in valuation,<sup id="ref2"><a href="#fn2">2</a></sup> and our founders retain more ownership than the industry average.<sup id="ref3"><a href="#fn3">3</a></sup></p>
             <div class="intro-stats">
                 <div class="intro-stat">
                     <span class="stat-value">$2B</span>
@@ -122,44 +122,34 @@
             <h2 data-reveal>From our founders</h2>
             <div class="testimonial-list">
                 <blockquote class="testimonial" data-reveal="stagger-1">
-                    <p>"They were the first check in and never wavered — even when we pivoted twice. That kind of conviction is rare."</p>
+                    <p>"I think of Amity like true co-founders of MaintainX that just happened to pay for their equity."</p>
                     <cite>
-                        <span class="cite-name">Jane Smith</span>
-                        <span class="cite-company">Acme Corp</span>
+                        <span class="cite-name">Chris Turlica</span>
+                        <span class="cite-company">MaintainX</span>
                     </cite>
                 </blockquote>
                 <blockquote class="testimonial" data-reveal="stagger-2">
-                    <p>"Most investors disappear after the wire. Amity showed up to our first five customer calls."</p>
+                    <p>"CJ is a Claude Code Grandmaster."</p>
                     <cite>
-                        <span class="cite-name">John Doe</span>
-                        <span class="cite-company">Beacon</span>
+                        <span class="cite-name">Henry Gasztowtt</span>
+                        <span class="cite-company">Isara</span>
                     </cite>
                 </blockquote>
                 <blockquote class="testimonial" data-reveal="stagger-3">
-                    <p>"They helped us close our Series A in three weeks — not by making intros, but by being in the room."</p>
+                    <p>"The Amity team are the rare investors who are just as comfortable debating big strategic swings as getting deep into the weeds of our day-to-day. We are constantly talking about everything from small operational decisions to big company bets, and somehow they always help us find the next right move."</p>
                     <cite>
-                        <span class="cite-name">Mike Chen</span>
-                        <span class="cite-company">Candor</span>
+                        <span class="cite-name">Rachel Lea Fishman</span>
+                        <span class="cite-company">Arketa</span>
                     </cite>
                 </blockquote>
-                <div class="testimonial-list-more" id="more-testimonials">
-                    <blockquote class="testimonial">
-                        <p>"When we hit a wall with our first enterprise deal, they got on a plane. That's not normal."</p>
-                        <cite>
-                            <span class="cite-name">Anna Kim</span>
-                            <span class="cite-company">Delphi</span>
-                        </cite>
-                    </blockquote>
-                    <blockquote class="testimonial">
-                        <p>"I've had investors who send articles. Amity sends candidates, intros, and actual help."</p>
-                        <cite>
-                            <span class="cite-name">David Wu</span>
-                            <span class="cite-company">Echo</span>
-                        </cite>
-                    </blockquote>
-                </div>
+                <blockquote class="testimonial" data-reveal="stagger-4">
+                    <p>"Amity backed us multiple times when it wasn't close to obvious. They are the definition of what venture capital should be: early when others wait, concentrated when others hedge, and in the building with us when others just watch."</p>
+                    <cite>
+                        <span class="cite-name">Ahmed Omar</span>
+                        <span class="cite-company">Sully.ai</span>
+                    </cite>
+                </blockquote>
             </div>
-            <button class="show-more" id="show-more-testimonials-btn" onclick="toggleMoreTestimonials()">Show more</button>
         </section>
 
         <section id="companies" class="companies" data-reveal>
@@ -629,7 +619,6 @@
         <span class="footer-location">Presidio, San Francisco, CA</span>
         <div class="footer-links">
             <a href="privacy-policy.html">Privacy Policy</a>
-            <a href="https://adviserinfo.sec.gov/firm/summary/290313" target="_blank" rel="noopener">Form ADV</a>
             <a href="#" onclick="document.getElementById('lp-login-modal').classList.add('active');return false;">LP Login</a>
             <a href="reserve.html">Amity Reserve</a>
         </div>
@@ -825,17 +814,6 @@
             }
         }
 
-        function toggleMoreTestimonials() {
-            const more = document.getElementById('more-testimonials');
-            const btn = document.getElementById('show-more-testimonials-btn');
-            if (more.classList.contains('visible')) {
-                more.classList.remove('visible');
-                btn.textContent = 'Show more';
-            } else {
-                more.classList.add('visible');
-                btn.textContent = 'Show fewer';
-            }
-        }
 
         const homeMemberData = {
             'cj': {
