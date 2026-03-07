@@ -301,9 +301,7 @@
       "name": "Snyk",
       "url": "https://snyk.io/",
       "founders": [
-        "Guy Podjarny",
-        "Assaf Hefetz",
-        "Danny Grander"
+        "Peter McKay"
       ],
       "description": "Developer security platform for building secure software",
       "image": "assets/images/snyk.webp",
@@ -349,8 +347,7 @@
       "name": "Socure",
       "url": "https://www.socure.com/",
       "founders": [
-        "Johnny Ayers",
-        "Sunil Madhu"
+        "Johnny Ayers"
       ],
       "description": "Predictive analytics for digital identity verification",
       "image": "assets/images/socure.jpg",
@@ -360,9 +357,8 @@
       "name": "Qumulo",
       "url": "https://qumulo.com/",
       "founders": [
-        "Aaron Passey",
-        "Neal Fachan",
-        "Peter Godman"
+        "Douglas Gourlay",
+        "Aaron Passey"
       ],
       "description": "File data platform for multi-cloud storage management",
       "image": "assets/images/qumulo.jpg",
@@ -417,8 +413,8 @@
       "name": "Causely",
       "url": "https://www.causely.ai/",
       "founders": [
-        "Ellen Rubin",
-        "Shmuel Kliger"
+        "Shmuel Kliger",
+        "Yotam Yemini"
       ],
       "description": "Causal AI for cloud application management and troubleshooting",
       "image": "assets/images/causely.png",
@@ -430,7 +426,6 @@
       "url": "https://www.column.us/",
       "founders": [
         "Leo Hentschker",
-        "Josh Hone",
         "Jake Seaton"
       ],
       "description": "Collaborative public notice platform for publishers and governments",
