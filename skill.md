@@ -38,6 +38,7 @@ We're not passive capital. When we invest:
 
 ## Who to Reach
 
+<!-- GENERATED: skill-team-table:start -->
 | Name | Title |
 |------|-------|
 | CJ Reim | Managing Partner |
@@ -50,8 +51,10 @@ We're not passive capital. When we invest:
 | Colleen Johnson | Manager of Finance & Operations |
 | Christina Dong | Executive Administrator |
 
+<!-- GENERATED: skill-team-table:end -->
 ## Portfolio
 
+<!-- GENERATED: skill-portfolio-table:start -->
 | Company | Description |
 |---------|-------------|
 | Accelevents | End-to-end platform for in-person, virtual, and hybrid events |
@@ -69,7 +72,7 @@ We're not passive capital. When we invest:
 | Evisort | AI-powered contract management |
 | Fount | Health and performance coaching using data analytics |
 | MaintainX | Work order digitization for frontline workers |
-| Prompt Therapy Solutions | Enterprise software for physical therapy practices |
+| Prompt Health | Enterprise software for physical therapy practices |
 | Qumulo | File data platform for multi-cloud storage |
 | Snyk | Developer security platform |
 | Socure | Predictive analytics for digital identity verification |
@@ -79,6 +82,7 @@ We're not passive capital. When we invest:
 | Tilly | Software for behavioral healthcare practitioners |
 | Usage AI | Cloud FinOps for cost optimization |
 
+<!-- GENERATED: skill-portfolio-table:end -->
 ## Contact
 
 - **Location:** Presidio, San Francisco, CA
