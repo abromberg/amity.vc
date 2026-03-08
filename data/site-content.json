@@ -215,7 +215,6 @@
       "isara",
       "ouster",
       "virsec",
-      "copilot",
       "mayfair",
       "playco",
       "xai",
@@ -227,6 +226,7 @@
       "airbnb",
       "prive",
       "goodcounsel",
+      "copilot",
       "flick",
       "depot-global",
       "vowel"
@@ -616,7 +616,11 @@
       "description": "AI-native platform automating and optimizing the modern sales tech stack",
       "image": "assets/images/copilot.jpg",
       "alt": "Copilot",
-      "agentDescription": "AI-native sales tech stack automation"
+      "agentDescription": "AI-native sales tech stack automation",
+      "badge": {
+        "text": "Inactive",
+        "className": "badge-inactive"
+      }
     },
     "mayfair": {
       "name": "Mayfair",
