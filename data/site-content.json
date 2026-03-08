@@ -653,7 +653,11 @@
       "description": "Frontier AI lab building Grok to accelerate scientific discovery",
       "image": "assets/images/xai.jpg",
       "alt": "xAI",
-      "agentDescription": "Frontier AI lab building Grok"
+      "agentDescription": "Frontier AI lab building Grok",
+      "badge": {
+        "text": "Acq. SpaceX",
+        "className": "badge-acq"
+      }
     },
     "xfigura": {
       "name": "xFigura",
