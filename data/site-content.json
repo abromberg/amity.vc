@@ -628,7 +628,7 @@
         "Justin Waldron"
       ],
       "description": "Instant-play gaming platform for cross-platform social games",
-      "image": "assets/images/playco.jpg",
+      "image": "assets/images/playco.webp",
       "alt": "Playco",
       "agentDescription": "Instant-play gaming platform for social games"
     },
@@ -661,7 +661,7 @@
         "Andrew Mancilla"
       ],
       "description": "AI-powered litigation drafting platform",
-      "image": "assets/images/ourfirm.jpg",
+      "image": "assets/images/ourfirm.webp",
       "alt": "OurFirm",
       "agentDescription": "AI-powered litigation drafting platform"
     },
@@ -709,7 +709,7 @@
       "alt": "MoQuality",
       "agentDescription": "AI-driven mobile app testing automation",
       "badge": {
-        "text": "Acq. Snapchat",
+        "text": "Acq. Snap",
         "className": "badge-acq"
       }
     },
@@ -722,7 +722,7 @@
         "Nathan Blecharczyk"
       ],
       "description": "Global marketplace for travel and experiences",
-      "image": "assets/images/airbnb.jpg",
+      "image": "assets/images/airbnb.webp",
       "alt": "Airbnb",
       "agentDescription": "Global marketplace for travel and experiences",
       "badge": {
@@ -740,7 +740,7 @@
         "Paul Fisher"
       ],
       "description": "AI-powered video conferencing and meeting management",
-      "image": "assets/images/vowel.jpg",
+      "image": "assets/images/vowel.webp",
       "alt": "Vowel",
       "agentDescription": "AI-powered video conferencing and meeting management"
     }
