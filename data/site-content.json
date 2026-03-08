@@ -225,6 +225,10 @@
       "truepill",
       "moquality",
       "airbnb",
+      "prive",
+      "goodcounsel",
+      "flick",
+      "depot-global",
       "vowel"
     ],
     "agent": [
@@ -240,10 +244,13 @@
       "column",
       "controlrooms-ai",
       "copilot",
+      "depot-global",
       "ditto",
       "edge-delta",
       "evisort",
+      "flick",
       "fount",
+      "goodcounsel",
       "honey",
       "isara",
       "lucenia",
@@ -253,6 +260,7 @@
       "ourfirm",
       "ouster",
       "playco",
+      "prive",
       "prompt-health",
       "qumulo",
       "snyk",
@@ -747,6 +755,57 @@
       "image": "assets/images/vowel.webp",
       "alt": "Vowel",
       "agentDescription": "AI-powered video conferencing and meeting management"
+    },
+    "prive": {
+      "name": "Prive",
+      "url": "https://www.tryprive.com/",
+      "founders": [
+        "Alex Craciun",
+        "Claudia Laurie"
+      ],
+      "description": "Subscription management platform for Shopify merchants",
+      "image": "assets/images/prive.jpg",
+      "alt": "Prive",
+      "agentDescription": "Subscription management for Shopify merchants",
+      "badge": {
+        "text": "Acq. Recurly",
+        "className": "badge-acq"
+      }
+    },
+    "goodcounsel": {
+      "name": "Good Counsel",
+      "url": "https://goodcounsel.com/",
+      "founders": [
+        "Daniel Brooks"
+      ],
+      "description": "Inclusive menswear brand for men of all sizes",
+      "image": "assets/images/goodcounsel.jpg",
+      "alt": "Good Counsel",
+      "agentDescription": "Inclusive menswear brand for all sizes"
+    },
+    "flick": {
+      "name": "Flick",
+      "url": "",
+      "founders": [
+        "Nigel Eccles",
+        "Rob Jones"
+      ],
+      "description": "Real-time sports fan chat and prediction platform",
+      "image": "assets/images/flick.jpg",
+      "alt": "Flick",
+      "agentDescription": "Real-time sports fan chat and predictions"
+    },
+    "depot-global": {
+      "name": "Depot Global",
+      "url": "",
+      "founders": [
+        "Brad O'Neill",
+        "Lindsey Haswell"
+      ],
+      "description": "Autonomous vehicle adoption software and services",
+      "image": "assets/images/depot-global.jpg",
+      "alt": "Depot Global",
+      "agentDescription": "Autonomous vehicle adoption software"
     }
   }
 }

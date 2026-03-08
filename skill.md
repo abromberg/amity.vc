@@ -69,10 +69,13 @@ We're not passive capital. When we invest:
 | Column | Collaborative public notice platform for publishers and governments |
 | ControlRooms.ai | AI-powered monitoring for critical infrastructure |
 | Copilot | AI-native sales tech stack automation |
+| Depot Global | Autonomous vehicle adoption software |
 | Ditto | Real-time data syncing for mobile and IoT applications |
 | Edge Delta | Stream processing for observability and anomaly detection |
 | Evisort | AI-powered contract management |
+| Flick | Real-time sports fan chat and predictions |
 | Fount | Health and performance coaching using data analytics |
+| Good Counsel | Inclusive menswear brand for all sizes |
 | Honey | Browser extension for automatic coupon discovery |
 | Isara | Frontier AI lab for multi-agent coordination |
 | Lucenia | Next-gen search and retrieval for contextual AI |
@@ -82,6 +85,7 @@ We're not passive capital. When we invest:
 | OurFirm | AI-powered litigation drafting platform |
 | Ouster | Digital lidar for autonomous systems and robotics |
 | Playco | Instant-play gaming platform for social games |
+| Prive | Subscription management for Shopify merchants |
 | Prompt Health | Enterprise software for physical therapy practices |
 | Qumulo | File data platform for multi-cloud storage |
 | Snyk | Developer security platform |
