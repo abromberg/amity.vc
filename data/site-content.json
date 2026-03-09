@@ -214,11 +214,9 @@
       "fount",
       "goodcounsel",
       "honey",
-      "isara",
       "lucenia",
       "mayfair",
       "moquality",
-      "ourfirm",
       "ouster",
       "playco",
       "prive",
@@ -231,8 +229,7 @@
       "truepill",
       "usage-ai",
       "virsec",
-      "vowel",
-      "xfigura"
+      "vowel"
     ],
     "agent": [
       "accelevents",
@@ -258,12 +255,10 @@
       "fount",
       "goodcounsel",
       "honey",
-      "isara",
       "lucenia",
       "maintainx",
       "mayfair",
       "moquality",
-      "ourfirm",
       "ouster",
       "playco",
       "prive",
@@ -279,8 +274,7 @@
       "usage-ai",
       "virsec",
       "vowel",
-      "xai",
-      "xfigura"
+      "xai"
     ]
   },
   "portfolioCompanies": {
@@ -589,18 +583,6 @@
       "alt": "Lucenia",
       "agentDescription": "Next-gen search and retrieval for contextual AI"
     },
-    "isara": {
-      "name": "Isara",
-      "url": "https://www.isara.io/",
-      "founders": [
-        "Henry Gasztowtt",
-        "Eddie Zhang"
-      ],
-      "description": "Frontier AI lab solving multi-agent coordination",
-      "image": "assets/images/isara.jpg",
-      "alt": "Isara",
-      "agentDescription": "Frontier AI lab for multi-agent coordination"
-    },
     "ouster": {
       "name": "Ouster",
       "url": "https://ouster.com/",
@@ -710,28 +692,6 @@
         "text": "Acq. SpaceX",
         "className": "badge-acq"
       }
-    },
-    "xfigura": {
-      "name": "xFigura",
-      "url": "https://xfigura.ai/",
-      "founders": [
-        "George Guida"
-      ],
-      "description": "AI-native design canvas for architects",
-      "image": "assets/images/xfigura.jpg",
-      "alt": "xFigura",
-      "agentDescription": "AI-native design canvas for architects"
-    },
-    "ourfirm": {
-      "name": "OurFirm",
-      "url": "https://ourfirm.ai/",
-      "founders": [
-        "Andrew Mancilla"
-      ],
-      "description": "AI-powered litigation drafting platform",
-      "image": "assets/images/ourfirm.webp",
-      "alt": "OurFirm",
-      "agentDescription": "AI-powered litigation drafting platform"
     },
     "honey": {
       "name": "Honey",

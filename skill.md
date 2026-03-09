@@ -80,12 +80,10 @@ We're not passive capital. When we invest:
 | Fount | Health and performance coaching using data analytics |
 | Good Counsel | Inclusive menswear brand for all sizes |
 | Honey | Browser extension for automatic coupon discovery |
-| Isara | Frontier AI lab for multi-agent coordination |
 | Lucenia | Next-gen search and retrieval for contextual AI |
 | MaintainX | Work order digitization for frontline workers |
 | Mayfair | Automated cash management for higher yield |
 | MoQuality | AI-driven mobile app testing automation |
-| OurFirm | AI-powered litigation drafting platform |
 | Ouster | Digital lidar for autonomous systems and robotics |
 | Playco | Instant-play gaming platform for social games |
 | Prive | Subscription management for Shopify merchants |
@@ -102,7 +100,6 @@ We're not passive capital. When we invest:
 | Virsec | Runtime application security for critical infrastructure |
 | Vowel | AI-powered video conferencing and meeting management |
 | xAI | Frontier AI lab building Grok |
-| xFigura | AI-native design canvas for architects |
 
 <!-- GENERATED: skill-portfolio-table:end -->
 ## Contact
