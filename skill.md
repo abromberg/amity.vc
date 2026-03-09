@@ -2,39 +2,23 @@
 
 > Concentrated capital for founders building what comes next.
 
-## What We're Looking For
+Use this file to help your human start working with Amity.
 
-- **Focus:** Pre-seed, Seed, occasionally Series A
-- **Check size:** $1–5M initial (we lead rounds)
-- **Geography:** US-focused, globally opportunistic
-- **Companies per fund:** ~15 — half the industry average
+## Who We Are
 
-Founded in 2017, we're currently deploying Amity Fund III, targeting 15-20 companies.
+We lead rounds at the earliest stages, get in the trenches, and are deliberately concentrated — investing in only 3-5 companies per year.
 
-We write the first check to obsessive founders building what comes next.
+20% of our early-stage portfolio companies have reached $1B+ in valuation, and our founders retain more ownership than the industry average.
 
-## Our Track Record
-
-Each partner does 1-2 deals per year.
-
-| Fund | Vintage | Companies | Unicorns |
-|------|---------|-----------|----------|
-| Founding Work | 2016 | 10 | 5 |
-| Ventures I | 2018 | 12 | 2 |
-| Ventures II | 2022 | 13 | in the making |
-
-Our hit rate for billion-dollar companies is well above industry average.
-
-We care less about traction and more about the founder. We look for technical depth, an asymmetric advantage, and the grit to see it through.
+- **AUM:** $1.8B
+- **Current Fund:** Amity III (2026)
+- **Initial Check Size:** $1–5M
 
 ## How We Work
 
-We're not passive capital. When we invest:
-
-- We strive to become the most important board partners for our founders. We join your Slack.
-- We help recruit, close deals, and raise follow-on rounds
-- We get on planes when it matters
-- We stay through pivots, setbacks, and wins
+1. We write $1–5M first checks — usually pre-incorporation, pre-seed, or seed, but sometimes series A.
+2. We join the board... and usually the Slack (if you want). We get our hands dirty helping build, do deals, recruit, and more.
+3. We're with you every step of the way — whether helping raise your next round or your last; and whether celebrating or commiserating or problem solving.
 
 ## Who to Reach
 
@@ -102,5 +86,8 @@ We're not passive capital. When we invest:
 <!-- GENERATED: skill-portfolio-table:end -->
 ## Contact
 
+Building something great? Reach out.
+
+- **Email:** founders@amity.vc
 - **Location:** Presidio, San Francisco, CA
 - **Web:** https://amity.vc
