@@ -132,14 +132,19 @@
       "boards": [
         "Accelevents",
         "Causely",
+        "Column",
+        "Edge Delta",
         "Playco",
-        "Prompt Health"
+        "Prompt Health",
+        "Qumulo",
+        "Snyk",
+        "Socure"
       ],
       "interests": "All things Boston College, Red Sox, Patriots, Celtics, and Bruins",
       "firstJob": "New York State Highway Department",
       "hiddenTalent": "Won college airband competition performing a Billy Idol song",
       "bookRecommendation": "Theo of Golden by Allen Levi",
-      "linkedin": "https://www.linkedin.com/in/peter-bell/",
+      "linkedin": "https://www.linkedin.com/in/peterwbell/",
       "twitter": "https://twitter.com/peterwbell"
     },
     "jason": {
@@ -539,8 +544,7 @@
       "name": "Tilly",
       "url": "https://tillytherapy.com/",
       "founders": [
-        "Yury Yakubchyk",
-        "Michael Ragheb"
+        "Yury Yakubchyk"
       ],
       "description": "Software for behavioral healthcare practitioners",
       "image": "assets/images/tilly.jpg",
@@ -770,7 +774,11 @@
       "description": "AI-powered video conferencing and meeting management",
       "image": "assets/images/vowel.webp",
       "alt": "Vowel",
-      "agentDescription": "AI-powered video conferencing and meeting management"
+      "agentDescription": "AI-powered video conferencing and meeting management",
+      "badge": {
+        "text": "Acq. Zapier",
+        "className": "badge-acq"
+      }
     },
     "prive": {
       "name": "Prive",
