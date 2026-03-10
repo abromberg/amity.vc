@@ -29,7 +29,7 @@ We lead rounds at the earliest stages, get in the trenches, and are deliberately
 | Patrick Yang | Partner |
 | Andy Bromberg | Partner |
 | Andy Ravreby | Partner |
-| Kieran Dennis | Software Engineer |
+| Kieran Dennis | Investor |
 | Peter Bell | Senior Advisor |
 | Jason Wong | Director of Finance and Operations |
 | Colleen Johnson | Manager of Finance & Operations |
@@ -49,6 +49,7 @@ We lead rounds at the earliest stages, get in the trenches, and are deliberately
 | Borderless Labs | Cross-border payments infrastructure |
 | Burrow | Direct-to-consumer modular furniture |
 | CaptivateIQ | Sales commissions management platform |
+| Carta | Global ownership management for equity and cap tables |
 | Causely | Causal AI for cloud application management |
 | Column | Collaborative public notice platform for publishers and governments |
 | ControlRooms.ai | AI-powered monitoring for critical infrastructure |
@@ -74,6 +75,7 @@ We lead rounds at the earliest stages, get in the trenches, and are deliberately
 | Qumulo | File data platform for multi-cloud storage |
 | Snyk | Developer security platform |
 | Socure | Predictive analytics for digital identity verification |
+| Stationwise | SaaS for emergency response and fire departments |
 | Sully.ai | AI assistant for healthcare administrative tasks |
 | Talkdesk | Cloud contact center for customer experience |
 | Tilly | Software for behavioral healthcare practitioners |
