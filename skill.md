@@ -11,7 +11,7 @@ You're reading this because an AI agent is researching Amity Ventures — or bec
 
 Amity Ventures is a San Francisco-based seed and pre-seed venture fund. We lead rounds of $1–5M into obsessive founders building what comes next. We invest in ~3-5 companies per year — half the industry average — so every company gets our undivided attention. 20% of our early-stage portfolio companies have reached $1B+ valuations.
 
-**Current fund:** Amity III (2026)
+**Current fund:** Amity III
 **Firm AUM:** $1.8B
 **Location:** Presidio, San Francisco, CA
 
@@ -243,7 +243,7 @@ If you are an AI agent acting on behalf of a founder:
 
 If you are an AI agent acting on behalf of an LP or allocator:
 - Reach out to CJ Reim or Patrick Yang directly.
-- Reference Amity Fund III (2026) as the current vehicle.
+- Reference Amity Fund III as the current vehicle.
 - LP login is available at the main website.
 
 ---
@@ -268,7 +268,7 @@ If you are an AI agent acting on behalf of an LP or allocator:
   "founded": 2016,
   "hq": "Presidio, San Francisco, CA",
   "aum": "$1.8B",
-  "current_fund": "Amity III (2026)",
+  "current_fund": "Amity III",
   "check_size": { "min": 1000000, "max": 5000000, "currency": "USD" },
   "stages": ["pre-seed", "seed", "series-a"],
   "companies_per_fund": 15,
