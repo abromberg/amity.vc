@@ -41,7 +41,7 @@
         "Isara",
         "Lucenia",
         "MaintainX",
-        "OurFirm",
+        "OurFirm.ai",
         "Stationwise",
         "Talkdesk"
       ],
@@ -61,8 +61,12 @@
       "education": "B.S. in Business Administration with Engineering Leadership concentration, UC Berkeley",
       "boards": [
         "Arketa",
+        "CaptivateIQ",
         "Controlrooms.ai",
+        "Core",
+        "Evisort",
         "Sully.ai",
+        "Tilly",
         "Usage AI"
       ],
       "interests": "Tennis, apres-ski, Golden State Warriors",
@@ -86,6 +90,7 @@
         "Co-founder of Lightwork Home Health, a home health assessment company, and interface0, an LLM interface for power users & teams."
       ],
       "boards": [
+        "Isara",
         "Lucenia"
       ],
       "firstJob": "Ice cream scooper",
@@ -104,10 +109,17 @@
       "photo": "assets/images/ravreby.jpeg",
       "bio": "For the past 15 years, Andy has partnered with founders as both an investor and operator across AI, SaaS, and developer tools.\n\nMost recently, he led Finance at EvenUp, an AI-native legal tech company, where he helped pioneer the \"sell work, not software\" model — delivering the legal outputs themselves rather than copilots for attorneys. During his tenure, he guided the company through hypergrowth from Series A to Series E, raising over $400M from Bessemer, Lightspeed, and Bain Capital.\n\nAndy began his investment career at Citadel Global Equities, covering public technology companies. He later joined Square, contributing through its IPO, before moving into early-stage venture. In 2018, he became the first member of Amity's investment team, helping raise, deploy, and support Amity Ventures I.\n\nAndy lives in Moraga, CA with his wife and two children.",
       "education": "Business Administration, UC Berkeley. MBA, The Wharton School.",
+      "boards": [
+        "Avochato",
+        "CaptivateIQ",
+        "Evisort",
+        "MaintainX",
+        "Vowel",
+        "xFigura"
+      ],
       "bookRecommendation": "The Outsiders by William Thorndike",
       "firstJob": "Retail shoe sales",
       "favoriteMeal": "Justin Burrito from Pavlos Tacos",
-      "alternateCareer": "International DJ",
       "linkedin": "https://www.linkedin.com/in/andyrav/",
       "twitter": "https://x.com/aravreby",
       "skillDescription": "Enterprise SaaS, vertical software"
@@ -200,14 +212,14 @@
   },
   "portfolioOrder": {
     "human": [
-      "maintainx",
-      "ditto",
-      "talkdesk",
-      "xai",
       "arketa",
       "captivateiq",
-      "equipmentshare",
-      "sully-ai",
+      "ditto",
+      "evisort",
+      "isara",
+      "maintainx",
+      "talkdesk",
+      "xai",
       "accelevents",
       "airbnb",
       "athelas",
@@ -220,11 +232,12 @@
       "controlrooms-ai",
       "core",
       "edge-delta",
-      "evisort",
-      "goodcounsel",
+      "equipmentshare",
+      "factored-quality",
       "honey",
       "lucenia",
       "moquality",
+      "ourfirm",
       "ouster",
       "playco",
       "prive",
@@ -233,10 +246,12 @@
       "snyk",
       "socure",
       "stationwise",
+      "sully-ai",
       "tilly",
       "truepill",
       "usage-ai",
-      "vowel"
+      "vowel",
+      "xfigura"
     ],
     "agent": [
       "accelevents",
@@ -256,11 +271,13 @@
       "edge-delta",
       "equipmentshare",
       "evisort",
-      "goodcounsel",
+      "factored-quality",
       "honey",
+      "isara",
       "lucenia",
       "maintainx",
       "moquality",
+      "ourfirm",
       "ouster",
       "playco",
       "prive",
@@ -275,7 +292,8 @@
       "truepill",
       "usage-ai",
       "vowel",
-      "xai"
+      "xai",
+      "xfigura"
     ]
   },
   "portfolioCompanies": {
@@ -286,7 +304,7 @@
         "Chris Turlica",
         "Hugo Dozois-Caouette"
       ],
-      "description": "Work order digitization platform for frontline workers",
+      "description": "AI-powered maintenance and asset management software",
       "image": "assets/images/maintainx.png",
       "alt": "MaintainX",
       "agentDescription": "Work order digitization for frontline workers"
@@ -297,7 +315,7 @@
       "founders": [
         "Adam Fish"
       ],
-      "description": "Real-time data syncing for mobile and IoT applications",
+      "description": "Edge-native, mobile database that keeps mission critical systems online",
       "image": "assets/images/ditto.jpg",
       "alt": "Ditto"
     },
@@ -307,7 +325,7 @@
       "founders": [
         "Tiago Paiva"
       ],
-      "description": "Cloud contact center for customer experience management",
+      "description": "AI agents that orchestrate the entire customer journey",
       "image": "assets/images/talkdesk.webp",
       "alt": "Talkdesk",
       "agentDescription": "Cloud contact center for customer experience"
@@ -319,7 +337,7 @@
         "Rachel Lea Fishman",
         "Josh Archer"
       ],
-      "description": "SaaS platform for fitness professionals to host classes and monetize content",
+      "description": "All-in-one business platform designed to run and grow modern fitness and wellness businesses",
       "image": "assets/images/arketa.jpeg",
       "alt": "Arketa",
       "agentDescription": "SaaS platform for fitness professionals"
@@ -370,7 +388,7 @@
         "Mark Schopmeyer",
         "Hubert Wong"
       ],
-      "description": "Sales commissions management platform",
+      "description": "Financial planning to incentive payout in one AI-infused platform",
       "image": "assets/images/captivate_iq.png",
       "alt": "CaptivateIQ"
     },
@@ -495,7 +513,7 @@
         "Amine Anoun",
         "Jake Sussman"
       ],
-      "description": "AI-powered contract management platform",
+      "description": "The global leader in AI-native contract intelligence solutions",
       "image": "assets/images/evisort.webp",
       "alt": "Evisort",
       "agentDescription": "AI-powered contract management",
@@ -634,7 +652,7 @@
       "founders": [
         "Elon Musk"
       ],
-      "description": "Frontier AI lab building Grok to accelerate scientific discovery",
+      "description": "Frontier AI lab developing Grok to accelerate scientific discovery",
       "image": "assets/images/xai.jpg",
       "alt": "xAI",
       "agentDescription": "Frontier AI lab building Grok",
@@ -742,16 +760,45 @@
         "className": "badge-acq"
       }
     },
-    "goodcounsel": {
-      "name": "Good Counsel",
-      "url": "https://goodcounsel.com/",
-      "founders": [
-        "Rudolph Cline-Thomas"
-      ],
-      "description": "Inclusive menswear brand for men of all sizes",
-      "image": "assets/images/goodcounsel.jpg",
-      "alt": "Good Counsel",
-      "agentDescription": "Inclusive menswear brand for all sizes"
+    "factored-quality": {
+      "name": "Factored Quality",
+      "url": "https://www.factoredquality.com/",
+      "founders": ["Prince Ghosh"],
+      "description": "Digital quality control management for consumer brands",
+      "image": "assets/images/factored_quality.jpg",
+      "alt": "Factored Quality",
+      "agentDescription": "Digital quality control management for consumer brands",
+      "badge": {
+        "text": "Acq. Pietra",
+        "className": "badge-acq"
+      }
+    },
+    "ourfirm": {
+      "name": "OurFirm.ai",
+      "url": "https://ourfirm.ai/",
+      "founders": ["Andrew Mancilla"],
+      "description": "AI-powered litigation drafting platform",
+      "image": "assets/images/ourfirm.webp",
+      "alt": "OurFirm.ai",
+      "agentDescription": "AI-powered litigation drafting platform"
+    },
+    "xfigura": {
+      "name": "xFigura",
+      "url": "https://xfigura.ai/",
+      "founders": ["George Guida"],
+      "description": "AI-native design canvas for architects",
+      "image": "assets/images/xfigura.jpg",
+      "alt": "xFigura",
+      "agentDescription": "AI-native design canvas for architects"
+    },
+    "isara": {
+      "name": "Isara",
+      "url": "https://www.isara.io/",
+      "founders": ["Henry Gasztowtt", "Eddie Zhang"],
+      "description": "Pioneering multi-agent coordination as the next frontier of artificial intelligence",
+      "image": "assets/images/isara.jpg",
+      "alt": "Isara",
+      "agentDescription": "Multi-agent coordination for AI"
     }
   }
 }
