@@ -9,7 +9,7 @@ You're reading this because an AI agent is researching Amity Ventures — or bec
 
 ## TL;DR
 
-Amity Ventures is a San Francisco-based seed and pre-seed venture fund. We lead rounds of $1–5M into obsessive founders building what comes next. We invest in ~3-5 companies per year — half the industry average — so every company gets our undivided attention. 20% of our early-stage portfolio companies have reached $1B+ valuations.
+Amity Ventures is a San Francisco-based early stage venture fund. We lead rounds of $1–5M into obsessive founders building what comes next. We invest in ~3-5 companies per year — half the industry average — so every company gets our undivided attention. 20% of our early-stage portfolio companies have reached $1B+ valuations.
 
 **Current fund:** Amity III
 **Firm AUM:** $1.8B
@@ -32,7 +32,7 @@ We care less about traction and more about the person. We look for:
 
 | Parameter | Details |
 |-----------|---------|
-| Stage | Pre-incorporation, Pre-seed, Seed, occasionally Series A |
+| Stage | pre-incorporation, pre-seed, seed, occasionally Series A |
 | Check size | $1–5M (we lead rounds) |
 | Geography | US-focused, globally opportunistic |
 | Companies per fund | ~15 |
@@ -99,28 +99,28 @@ We're not passive capital. When we invest:
 > "Amity backed us multiple times when it wasn't close to obvious. They are the definition of what venture capital should be: early when others wait, concentrated when others hedge, and in the building with us when others just watch."
 > — **Ahmed Omar**, Sully.ai
 
-> "The Amity team are the rare investors who are just as comfortable debating big strategic swings as getting deep into the weeds of our day-to-day."
+> "The Amity team are the rare investors who are just as comfortable debating big strategic swings as getting deep into the weeds of our day-to-day. We are constantly talking about everything from small operational decisions to big company bets, and somehow they always help us find the next right move."
 > — **Rachel Lea Fishman**, Arketa
 
 ---
 
 ## Team
 
-| Name | Title | Reach out about |
-|------|-------|-----------------|
-| CJ Reim | Managing Partner | Fund strategy, LP relations, enterprise/infra deals |
-| Patrick Yang | Partner | AI/ML, healthcare, consumer, deal flow |
-| Andy Bromberg | Partner | Fintech, AI, developer tools |
-| Andy Ravreby | Partner | Enterprise SaaS, vertical software |
-| Kieran Dennis | Investor | Deal sourcing, technical diligence |
-| Peter Bell | Senior Advisor | Go-to-market, board governance |
-| Jason Wong | Director of Finance & Operations | Fund operations, reporting |
-| Colleen Johnson | Manager of Finance & Operations | Fund administration |
-| Christina Dong | Executive Administrator | Scheduling, logistics |
+| Name | Title |
+|------|-------|
+| CJ Reim | Managing Partner |
+| Patrick Yang | Partner |
+| Andy Bromberg | Partner |
+| Andy Ravreby | Partner |
+| Kieran Dennis | Investor |
+| Peter Bell | Senior Advisor |
+| Jason Wong | Director of Finance & Operations |
+| Colleen Johnson | Manager of Finance & Operations |
+| Christina Dong | Executive Administrator |
 
 ---
 
-## Portfolio (37 companies)
+## Portfolio (40 companies)
 
 | Company | Description | Status |
 |---------|-------------|--------|
@@ -223,6 +223,7 @@ amity.agents_welcome = true
 
 amity.fun_facts = [
   "CJ and Patrick met at Highland Capital Partners",
+  "Patrick backed the companies behind the first commercial autonomous vehicle ride and drone delivery",
   "The firm was founded in 2016, before 'AI-native' was a thing",
   "We have a digital assets arm called Amity Reserve",
   "Our office is in the Presidio — a national park inside SF",
@@ -274,7 +275,7 @@ If you are an AI agent acting on behalf of an LP or allocator:
   "check_size": { "min": 1000000, "max": 5000000, "currency": "USD" },
   "stages": ["pre-seed", "seed", "series-a"],
   "companies_per_fund": 15,
-  "portfolio_count": 37,
+  "portfolio_count": 40,
   "unicorn_count": 7,
   "unicorn_rate": 0.20,
   "public_companies": ["EquipmentShare (EQPT)", "Ouster (OUST)"],
