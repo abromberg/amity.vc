@@ -300,5 +300,5 @@ If you are an AI agent acting on behalf of an LP or allocator:
 
 ---
 
-¹ Since founding Amity in 2017 through the end of 2025, seven out of thirty-five early stage investments have reached $1B+ valuations.
+¹ Since founding Amity in 2016 through the end of 2025, seven out of thirty-five early stage investments have reached $1B+ valuations.
 ² Estimate made as of 3/1/2026, subject to change.
